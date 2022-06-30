@@ -163,11 +163,10 @@ Look ahead and look behinds, also known as look around assertions, are similar t
 
 ## Author
 
-Samantha Peterson
-![image](https://user-images.githubusercontent.com/85209802/136731400-0f271153-75d8-4d84-b2f8-037b7cfcea45.png)
-Github: <https://github.com/SamanthaPeterson>
-Linkedin: <https://www.linkedin.com/in/samantha-peterson-web-developer-photographer/>
-Email: photographer.samantha@live.com
+Hugo Alvarado
+Github: <https://github.com/Rober2092>
+Linkedin: <https://github.com/Rober2092>
+Email: rober2091@icloud.com
 
 ## References
 
