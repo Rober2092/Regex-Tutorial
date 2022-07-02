@@ -178,7 +178,6 @@ Email: rober2091@icloud.com
 <https://www.javascripttutorial.net/regular-expression-word-boundaries/>
 
 ## Links to application and commit history
+<https://github.com/Rober2092>
+<https://github.com/Rober2092/Regex-Tutorial>
 
-<https://github.com/SamanthaPeterson/Computer-science-for-javascript-17>
-<https://gist.github.com/SamanthaPeterson>
-<https://gist.github.com/SamanthaPeterson/84682013a1b31bd8ff048276d61ba547>
